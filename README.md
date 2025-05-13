@@ -1,4 +1,3 @@
-# codedex
 # This is the list of courses i have done on Codedex:
 
 ## The Legend Of Python
