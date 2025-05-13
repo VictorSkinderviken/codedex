@@ -21,3 +21,13 @@
 |                | `fizzbuzz.py`      | 1️⃣2️⃣ Prints the FizzBuzz sequence |
 |                | `guessthenum.py`   | 🔢 Guess the number in 5 tries       |
 |                | `loops.txt`        | 📝 A little cheat sheet              |
+
+## Intermediate Python 🚀
+
+| Course                     | File               | Description                          |
+|----------------------------|--------------------|--------------------------------------|
+| **Data Structures**        | `findmyfriends.py` | 👫 Manage your friend list           |
+|                            | `inventors.py`     | 🧠 Work with inventor data           |
+|                            | `museum.py`        | 🏛️ Museum exhibit organizer         |
+|                            | `shoppingset.py`   | 🛍️ Shopping list with sets          |
+| **File & Error Handling**  | `diary.py`         | 📖 Personal diary app                |
