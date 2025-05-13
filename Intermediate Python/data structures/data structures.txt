@@ -1,0 +1,8 @@
+# Tuple
+teams = ('TeamA', 'TeamB')
+
+# Dictionary
+basketball_player = {'name': 'LeBron James', 'team': 'Los Angeles Lakers'}
+
+# Set
+soccer_positions = {'Forward', 'Midfielder', 'Defender', 'Goalkeeper'}
