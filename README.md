@@ -1,28 +1,23 @@
-# This is the list of courses I’ve completed on Codédex:
+# Courses Completed on Codédex
 
-## The Legend Of Python
+## The Legend of Python
 
-### 1. Variables
-#### bmi.py           - a bmi calculator
-#### currency.py      - a currecy converter
-#### phytagorean.py   - calculates triangle side
-#### tempeature.py    - converts fahrenheit to celsius
-#### variables.txt    - a little cheet
-
-### 2. Control Flow
-#### coinflip.py      - random coinflip
-#### cyclone.py       - roller coster
-#### grade.py         - enter your test results
-#### harrypotter.py   - see what house you get
-#### magic8.py        - ask 8 ball anything
-#### ph.py            - see ph value
-
-### 3. Loops
-#### 99bottles.py     - writes the song
-#### detension.py     - your in detension write sorry 100 times
-#### enterpin.py      - enter your pin
-#### fizzbuzz.py      - writes the song
-#### guessthenum.py   - guess the random number in 5 tries
-#### loops.txt        - a little cheet
-
-
+| Course       | File               | Description                          |
+|--------------|--------------------|--------------------------------------|
+| **Variables**    | `bmi.py`         | A BMI calculator                     |
+|              | `currency.py`    | A currency converter                 |
+|              | `pythagorean.py` | Calculates triangle side             |
+|              | `temperature.py` | Converts Fahrenheit to Celsius       |
+|              | `variables.txt`  | A little cheat sheet                 |
+| **Control Flow** | `coinflip.py`    | Random coin flip                     |
+|              | `cyclone.py`     | Roller coaster simulator             |
+|              | `grade.py`       | Enter your test results              |
+|              | `harrypotter.py` | Hogwarts house sorting               |
+|              | `magic8.py`      | Ask the Magic 8-Ball anything        |
+|              | `ph.py`          | Check pH value                       |
+| **Loops**        | `99bottles.py`   | Prints the "99 Bottles of Beer" song |
+|              | `detention.py`   | Write "Sorry" 100 times              |
+|              | `enterpin.py`    | Enter your PIN                       |
+|              | `fizzbuzz.py`    | Prints the FizzBuzz sequence         |
+|              | `guessthenum.py` | Guess the random number in 5 tries   |
+|              | `loops.txt`      | A little cheat sheet                 |
