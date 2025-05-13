@@ -1,17 +1,17 @@
-# Alle starter på 0
+# Set variables to 0
 slytherin = 0
 hufflepuff = 0
 ravenclaw = 0
 gryffindor = 0
 
-# Bruker svarer på spørsmål 1
+# User inputs answer1
 print ("Q1) Do you like Dawn or Dusk? ")
 print ("    1) Dawn")
 print ("    2) Dusk")
 answer1 = int(input('Enter your answer (1-2): '))
 print("\n")
 
-# if else statements for å legge til poeng for spørsmål 1
+# Add points based on answer1
 if answer1 == 1:
   gryffindor += 1
   ravenclaw += 1
@@ -21,7 +21,7 @@ elif answer1 == 2:
 else:
   print ("Wrong input.")
 
-# Bruker svarer på spørsmål 2
+# User inputs answer2
 print ("Q2) When I’m dead, I want people to remember me as: ")
 print ("    1) The Good")
 print ("    2) The Great")
@@ -30,7 +30,7 @@ print ("    4) The Bold")
 answer2 = int(input('Enter your answer (1-4): '))
 print("\n")
 
-# if else statements for å legge til poeng for spørsmål 2
+# Add points based on answer2
 if answer2 == 1:
   hufflepuff += 2
 elif answer2 == 2:
@@ -42,7 +42,7 @@ elif answer2 == 4:
 else:
   print ("Wrong input.")
 
-# Bruker svarer på spørsmål 3
+# User inputs answer3
 print ("Q3) Which kind of instrument most pleases your ear? ")
 print ("    1) The violin")
 print ("    2) The trumpet")
@@ -51,7 +51,7 @@ print ("    4) The drum")
 answer3 = int(input('Enter your answer (1-4): '))
 print("\n")
 
-# if else statements for å legge til poeng for spørsmål 3
+# Add points based on answer3
 if answer3 == 1:
   slytherin += 4
 elif answer3 == 2:
@@ -63,10 +63,10 @@ elif answer3 == 4:
 else:
   print ("Wrong input.")
 
-# Finner hvilket hus som har mest poeng
+# Finds out house with most points
 house = max(slytherin, hufflepuff, ravenclaw, gryffindor)
 
-# Printer huset med mest poeng
+# Prints the winning house
 if house == slytherin:
   print ("Slytherin won!")
   print("\n")
@@ -82,12 +82,12 @@ elif house == gryffindor:
 else:
   print ("Error")
 
-# Spør bruker om de vil se scoreboard.
+# Asks user to see full scores
 print ("Would you like to see the full scores on all houses?")
 answer4 = input('Enter your answer (y or n): ')
 print("\n")
 
-# Hvis ja, print scoreboard
+# If yes, then print board
 if answer4 == "y":
   print ("=====================================================")
   print ("You´r stats:")

@@ -12,6 +12,6 @@ print ("Your height * height is", height)
 
 # Formula for calculating BMI based on Height and mass is: 
 # BMI = mass / height **2 
-# OBS! (**2 betyr height opphøyd i 2)
+# OBS! (**2 means height to the power of 2)
 bmi = mass / height
 print ("That means your BMI is", bmi)

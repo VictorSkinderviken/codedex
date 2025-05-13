@@ -12,7 +12,7 @@ print("b **2 is", b)
 
 # Formula for calculating the "c" side based on "a" and "b" is: 
 # c = (a **2 + b **2)**0.5 
-# OBS! (**0.5 er kvadratroten av (a **2 + b **2))
+# OBS! (**0.5 is square root of (a **2 + b **2))
 c = a + b
 c = c **0.5
 print("Your longest side is", c, "centimeters long")

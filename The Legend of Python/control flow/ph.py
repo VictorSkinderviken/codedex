@@ -1,4 +1,4 @@
-# makes the user type in a pH value
+# Makes the user type in a pH value
 ph = int(input("Enter a pH value (0-14): "))
 
 # Forces user to input a number from 0 to 14
