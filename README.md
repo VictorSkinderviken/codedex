@@ -30,4 +30,11 @@
 |                            | `inventors.py`     | 🧠 Work with inventor data           |
 |                            | `museum.py`        | 🏛️ Museum exhibit organizer         |
 |                            | `shoppingset.py`   | 🛍️ Shopping list with sets          |
-| **File & Error Handling**  | `diary.py`         | 📖 Personal diary app                |
+|                            | `data structures.txt`| 📝 A little cheat sheet           |
+| **File & Error Handling**  | `diary.py`         | 📖 Personal diary app               |
+|                            | `diary.txt`        | 📝 Outcome of diary.py              |
+|                            | `songlist.py`      | 🎵 Writes a songlist!               |
+|                            | `liked_songs.txt`  | 🔈 Outcome of songlist.py           |
+
+
+
