@@ -1,4 +1,5 @@
 # Courses Completed on Codédex 🏆
+(2 courses so far)
 
 ## The Legend of Python 🐍
 
